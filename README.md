@@ -2,7 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 # NOTE: Internet connection is required to run this code
 
 ## Getting Started
-First, change your directory with the command below
+Run the below command on your Integrated Enviroment Command (IDE) Terminal
+First, change your directory 
 ### cd FCP-CSC-18-1008
 
 secondly, install all necessary dependencies with the command

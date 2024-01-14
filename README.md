@@ -19,8 +19,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ### To access admin login
 http://localhost:3000/login
 
-Admin Access
-Username: 1001
+Admin Access <br>
+Username: 1001 <br>
 Password: admin
 
 ### To access some exiting crimes here are some ID
